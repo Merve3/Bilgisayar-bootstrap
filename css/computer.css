@@ -1,0 +1,43 @@
+.redcolor {
+   color: rgb(218, 2, 67);
+}
+a{
+    text-decoration: none;
+    
+}
+body{
+    background-color: #E9ECEF;
+}
+.white {
+    color: white;
+}
+.font{
+    font-size: 20px;
+}
+#box{
+   color:rgb(216, 216, 216);
+}
+#box:hover{
+    color:white;
+}
+.caramel{
+    color:rgb(194, 104, 20);
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+.purplecenter{
+    color: purple;
+    text-align: center;
+}
+#kutu {
+    width:70px;
+    height:29px;
+    border-radius: 10px;
+    background:rgb(177, 158, 199);
+    color:#fff;
+}
+.purple{
+    color: purple;
+}
